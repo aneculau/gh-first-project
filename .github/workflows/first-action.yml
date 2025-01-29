@@ -1,6 +1,5 @@
 name: Demo
 on: workflow_dispatch
-
 jobs:
   first-job:
     runs-on: ubuntu-latest
